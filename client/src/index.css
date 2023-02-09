@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  height:100%;
+  background-color: var(--background)
+}
+html, #root{
+  height: 100%;
+}
+*{
+  box-sizing: border-box;
+}
+:root{
+  --red: rgb(172, 13, 13);
+  --lightred: rgb(134, 15, 15);
+  --darkred: rgb(100, 12, 12);
+  --background: black;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+input {
+  padding:3px 0;
+}
+select{
+  padding: 3px
+}
+button{
+  background-color: var(--lightred);
+  color: white;
+  border: none;
+  padding: 5px;
+}
+button:hover{
+  background-color: var(--darkred);
+}
+img{
+width:40px
+}
+
+.errorPage{
+  color: white;
+}

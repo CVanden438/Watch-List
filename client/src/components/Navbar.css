@@ -1,0 +1,13 @@
+.navbar {
+    position: fixed;
+    color: white;
+    height: 40px;
+    width: 100%;
+    margin-top: 0;
+    background-image: linear-gradient(to right, red, black);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 5px;
+    padding-left: 5px;
+}

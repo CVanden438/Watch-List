@@ -1,0 +1,16 @@
+.dashboard > button {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.dashboard {
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+    padding-top: 80px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 100px;
+    justify-content: center;
+}
