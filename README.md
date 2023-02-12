@@ -1,12 +1,6 @@
-### H3
+### Watch-List
 
-Watch-List
-
-### H2
-
-**Teachnology**
+## Technology
 MERN stack
 
-### H2
-
-**Features**
+## Features
